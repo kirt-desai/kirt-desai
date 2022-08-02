@@ -1,0 +1,15 @@
+.productContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.productParent{
+    margin: 5%;
+    border: solid 5px white;
+    border-radius: 20px;
+}
+
+.prodImg{
+    border-radius: 20px;
+}

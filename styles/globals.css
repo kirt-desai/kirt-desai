@@ -1,0 +1,23 @@
+@import './Home.css';
+@import './Country.css';
+@import './Genres.css';
+@import './Years.css';
+@import './Product.css';
+@import './ProductPage.css';
+
+body {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  overflow-y: scroll;
+  margin: 0;
+  padding: 0;
+}
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+
